@@ -29,6 +29,3 @@ Projects can be viewed by opening the HTML files locally or through GitHub Pages
 
 ## Connect with Me
 - 💼 LinkedIn: https://www.linkedin.com/in/trixibelle-ramirez
-
-## Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
